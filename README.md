@@ -21,6 +21,7 @@ This tool may be good for those who find it tedious to enter passwords over and 
 
 ## How to Use
 - Pairing with your target PC at first
+- Press BOOTSEL button for input characters
 
 
 ## WARNING!
