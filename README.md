@@ -14,8 +14,9 @@ This tool may be good for those who find it tedious to enter passwords over and 
 ## Hardware
 
 - Raspberry pi pico W.
-- USB battery or external battery, e.g., two AA batteries
-- Connect to minus for GND and plus for VBUS.
+- External battery, e.g., two AA batteries
+  - Connect to minus for GND and plus for VBUS.
+- USB battery also works.
 
 ![Alt text](IMG-0225.jpg)
 
