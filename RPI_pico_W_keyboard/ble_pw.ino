@@ -25,7 +25,7 @@ void setup() {
 
 void loop() {
   if (BOOTSEL) {
-    KeyboardBT.print("ASDFGKndK123!@#");
+    KeyboardBT.print("type in your password here"); // your password
     while (BOOTSEL);
   }
 }
